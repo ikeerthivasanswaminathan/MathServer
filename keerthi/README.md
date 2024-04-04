@@ -99,7 +99,7 @@ h1 {
 </html>
 ```
 
-view.py
+views.py
 
 ```
 from django.shortcuts import render
